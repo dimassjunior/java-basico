@@ -1,3 +1,2 @@
 # java-basico
-Repositório para armazenar todo o código java, para estudos
-teste
+Repositório para armazenar todo o código java
